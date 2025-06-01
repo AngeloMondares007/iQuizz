@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: AnimalData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: e8231183f98bd544e9242e21f7b7268f, type: 3}
+    answer: ball
+  - questionImage: {fileID: 21300000, guid: 56fcdaf60a47ea2459e3815208de9798, type: 3}
+    answer: book
+  - questionImage: {fileID: 21300000, guid: f3922b7d268ab524b910620b63657abe, type: 3}
+    answer: cake
+  - questionImage: {fileID: 21300000, guid: c83513d207ce6644eaa8113fc64d4b92, type: 3}
+    answer: cat
+  - questionImage: {fileID: 21300000, guid: 4e9ae661b3d14c84fb928638aa18bf42, type: 3}
+    answer: cow
+  - questionImage: {fileID: 21300000, guid: 15e31b68c39880b49a2985ef9803392c, type: 3}
+    answer: farm
+  - questionImage: {fileID: 21300000, guid: dfe5ddd8d57574a478d5b5699f8e5ac9, type: 3}
+    answer: fish
+  - questionImage: {fileID: 21300000, guid: 9a11bff5e7b0f1049bc7b994703fc550, type: 3}
+    answer: kite
+  - questionImage: {fileID: 21300000, guid: 49388f2b105b4594092fe77d02e1282e, type: 3}
+    answer: lion
+  - questionImage: {fileID: 21300000, guid: 737ef1d1b4fbf4e4a9a186da71d895e2, type: 3}
+    answer: pig
+  - questionImage: {fileID: 21300000, guid: 27ffe6111cbdd93408c6ce89f3631023, type: 3}
+    answer: duck
+  - questionImage: {fileID: 21300000, guid: fadf16fa212fc3b49bd86b5328902c9d, type: 3}
+    answer: milk
+  - questionImage: {fileID: 21300000, guid: 58017d6f639129e40a78cea046d2c01b, type: 3}
+    answer: ear
+  - questionImage: {fileID: 21300000, guid: 5443ed1ecaca7154db03fbe12ef54539, type: 3}
+    answer: tree
+  - questionImage: {fileID: 21300000, guid: ab9d3d8b9060c3a43aca94f678f24784, type: 3}
+    answer: bird
+  - questionImage: {fileID: 21300000, guid: 2b3c7167151c72d4d9d442dcab414226, type: 3}
+    answer: door
+  - questionImage: {fileID: 21300000, guid: 1bf147d629296b14d8bf540a4634e63b, type: 3}
+    answer: star
+  - questionImage: {fileID: 21300000, guid: 1d46dd4c19cf7c741bb33edaa24536a8, type: 3}
+    answer: dog
+  - questionImage: {fileID: 21300000, guid: 11b22b25d30ff0948a7353ae9aff1a4b, type: 3}
+    answer: toy
+  - questionImage: {fileID: 21300000, guid: 91110131980b22b408695b86022a590a, type: 3}
+    answer: sun
